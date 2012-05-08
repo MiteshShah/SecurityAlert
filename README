@@ -1,0 +1,8 @@
+As a Linux System Admin I'm always need to monitor system logs for any unauthorized activity like
+brute force attack or co-worker trying to guess the server passwords.
+
+In this kind of situation system generate a special message in /var/log/auth.log file called 
+"authentication failure".
+
+This script send those messages to the script twitter accounts and I'm the only follower of this script twitter accounts
+and twitter sends all the messages to the my mobile number. 

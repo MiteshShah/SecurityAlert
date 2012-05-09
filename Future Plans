@@ -1,0 +1,11 @@
+1. Auto add crontab jobs
+
+	Every time this scripts run it first checks the crontab -l command output and if */10 * * * * /path/to/the/script/SecurityAlert.sh entry is found is do nothing but if this entry is not found then it will create this entry
+
+2. Make this script available for major linux distro like Ubuntu Fedora LinuxMint Redhat CentOS Debian & ArchLinux
+
+	1. Identify Linux distro with the help of uname -a and grep commands
+
+	2. Checks if twidge is installed on particular linux distro
+
+	3. Where Other Linux distro stores the authentication failure message

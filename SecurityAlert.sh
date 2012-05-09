@@ -1,19 +1,5 @@
 #!/bin/bash
 
-# This program is free software; you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation; either version 2 of the License, or
-# (at your option) any later version.
-
-# Copyright (C) 2012 by +Mitesh Shah 
-# Mr.Miteshah@gmail.com
-# People who works on this script to make it easier and good
-# +Chris Raess +Josh Sabboth and +Christopher Timm 
-# People who want to use this script in their Mac OS X
-# Read the +Israel Torres comments on this post
-# https://plus.google.com/111560558537332305125/posts/S6mrHJeS5Wd
-
-
 # You should need to create a crontab entry for this script
 # So this script runs every 10 minutes automatically.
 

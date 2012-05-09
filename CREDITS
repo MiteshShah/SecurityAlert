@@ -1,0 +1,36 @@
+	This is at least a partial credits-file of people that have
+	contributed to the Linux project.  It is sorted by name and
+	formatted to allow easy grepping and beautification by
+	scripts.  The fields are: name (N), email (E), web-address
+	(W), PGP key ID and fingerprint (P), description (D), and
+	snail-mail address (S).
+	Thanks,
+
+			Mitesh Shah
+----------
+
+
+N: Chris Raess
+W: https://plus.google.com/112172560861633437924
+
+N: Christopher Timm
+W: https://plus.google.com/116378208391923606904
+
+N: Cristian Ștefănescu
+E: howerkraft@gmail.com
+D: Adding load average features
+
+N: Israel Torres
+W: https://plus.google.com/102921309581624765133
+
+N: Josh Sabboth
+W: https://plus.google.com/114789535688337972161
+
+N: Mitesh Shah
+E: Mr.Miteshah@gmail.com
+W: https://plus.google.com/111560558537332305125
+D: Original Author of SecurityAlert.sh
+S: 3 18 37 Sat Chakli,
+S: Mayabazar, Visnagar
+S: Gujarat, India
+

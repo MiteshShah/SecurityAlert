@@ -30,4 +30,3 @@ else
 	echo $SMS | awk '{print $3,$5,$9,$10,$12,$14,$15,$16}' | twidge update
 	fi
 fi
-
